@@ -10,8 +10,8 @@
 	Linux: <br>
 	<ol>
 		<li>"cd browserbomb"</li>
-		</li>"python3 bb.py"</li>
-		</li>Укажите порт: 8080</li>
+		<li>"python3 bb.py"</li>
+		<li>Укажите порт: 8080</li>
 	</ol>
 <br>
 Чтобы остановить, нажмите ctrl+z
