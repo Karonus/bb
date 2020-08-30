@@ -1,13 +1,17 @@
 # Browser Bomber
-Установка:
-	Linux:
-		$ git clone https://github.com/Karonus/bb
-		$ pkg install python
-		$ pkg install php
-Запуск:
-	Linux:
-		$ cd browserbomb
-		$ python3 bb.py
-		Укажите порт~/ 8080
+<b>Установка:</b> <br>
+	Linux: <br>
+	<ol>
+		<li>"git clone https://github.com/Karonus/bb"</li>
+		<li>"pkg install python"</li>
+		<li>"pkg install php"</li>
+	</ol>
+<b>Запуск:</b> <br>
+	Linux: <br>
+	<ol>
+		<li>"cd browserbomb"</li>
+		</li>"python3 bb.py"</li>
+		</li>Укажите порт: 8080</li>
+	</ol>
 <br>
 Чтобы остановить, нажмите ctrl+z
